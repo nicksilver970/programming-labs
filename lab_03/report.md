@@ -70,9 +70,6 @@ if __name__ == '__main__':
 ```python
 import sys
 from variant14_mod import (
-# ... ваш код ...
-import sys
-from variant14_mod import (
     categorize_access_events,
     get_blocked_users,
     get_last_access_logs,
